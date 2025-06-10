@@ -1,0 +1,43 @@
+name: Desplegar Infraestructura - Egresados
+
+on:
+  push:
+    paths:
+      - 'infra/**'
+      - '.github/workflows/deployInfra.yml'
+
+jobs:
+  terraform:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Clonar repositorio
+      uses: actions/checkout@v3
+
+    - name: Instalar Terraform
+      uses: hashicorp/setup-terraform@v2
+      with:
+        terraform_version: 1.5.5
+
+    - name: Login a Azure
+      uses: azure/login@v1
+      with:
+        creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+    - name: Inicializar Terraform
+      working-directory: infra
+      run: terraform init
+
+    - name: Plan de Terraform
+      working-directory: infra
+      env:
+        TF_VAR_sql_admin_user: ${{ secrets.SQL_ADMIN_USER }}
+        TF_VAR_sql_admin_password: ${{ secrets.SQL_ADMIN_PASS }}
+      run: terraform plan -out=tfplan
+
+    - name: Aplicar Terraform
+      working-directory: infra
+      env:
+        TF_VAR_sql_admin_user: ${{ secrets.SQL_ADMIN_USER }}
+        TF_VAR_sql_admin_password: ${{ secrets.SQL_ADMIN_PASS }}
+      run: terraform apply -auto-approve tfplan
