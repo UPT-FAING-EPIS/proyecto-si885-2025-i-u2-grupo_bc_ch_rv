@@ -18,4 +18,6 @@ resource "azurerm_mssql_database" "db_egresados" {
   collation    = "SQL_Latin1_General_CP1_CI_AS"
   license_type = "LicenseIncluded"
   sku_name     = "S0"
+
+  depends_on = [azurerm_mssql_server.sqlsrv_egresados]
 }
