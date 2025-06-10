@@ -27,7 +27,7 @@
                         
 ## Objetivo Principal:
 Evaluar el perfil profesional de los egresados de la EPIS de la UPT en LinkedIn para identificar sus habilidades, competencias, sectores laborales y trayectorias profesionales, y proponer estrategias para mejorar su posicionamiento en el mercado laboral.
-
+         
 ## Objetivos Secundarios:
 1. Identificar las habilidades y competencias más destacadas en los perfiles de los egresados.
 2. Analizar los sectores laborales y roles profesionales predominantes en los que trabajan.
