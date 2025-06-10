@@ -18,7 +18,7 @@
 ## **Docente:** Mag. Patrick Cuadros Quiroga  
 
 ---
-
+                        
 ### **Integrantes:**  
 - **Villanueva Mamani, Royser Alonsso**  
 - **Hinojosa Mucho, Christian Dennis**  
