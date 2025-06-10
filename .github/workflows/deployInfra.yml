@@ -41,3 +41,4 @@ jobs:
         TF_VAR_sql_admin_user: ${{ secrets.SQL_ADMIN_USER }}
         TF_VAR_sql_admin_password: ${{ secrets.SQL_ADMIN_PASS }}
       run: terraform apply -auto-approve tfplan
+      
