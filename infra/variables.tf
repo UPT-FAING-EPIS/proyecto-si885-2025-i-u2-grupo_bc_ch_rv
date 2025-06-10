@@ -1,6 +1,6 @@
 variable "location" {
   description = "Ubicación de los recursos en Azure"
-  default     = "East US"
+  default     = "West US 2"
 }
 
 variable "sql_admin_user" {
