@@ -418,20 +418,7 @@ Costos operativos durante el desarrollo
 |Dominio web (.com o .org)|50|
 |Hosting para plataforma|230|
 |Power BI Pro (licencia por 6 meses)|180|
-|**Total**||
-
-||
-| - |
-
-|||
-| - | - |
-
-|**460**|
-| - |
-
-|||
-| - | - |
-
+|**Total**|460|
 
 
 
@@ -479,10 +466,10 @@ A continuación, se detalla la estimación de sueldos proyectados para cada rol 
 
 |**Rol**|**Cantidad**|**Salario mensual (S/) por 5 horas al dia**|**Duración (meses)**|**Subtotal (S/)**|
 | - | - | - | - | - |
-|Desarrollador Backend|1|600|6|3600|
-|Desarrollador Frontend|1|600|6|3600|
-|Analista de Requerimientos|1|600|3|1800|
-|**Total**||||**9000**|
+|Jefe del Proyecto|1|800|3|2400|
+|Programador|1|800|1|2400|
+|Analista de datos|1|800|1|2400|
+|**Total**||||**7200**|
 
 Este equipo será responsable del desarrollo del backend y frontend del sistema, el diseño de dashboards, la recolección de datos desde LinkedIn, la implementación de la base de datos, el análisis funcional y el cumplimiento de los estándares académicos y técnicos requeridos. El costo total de personal está optimizado en función de la carga horaria y duración del proyecto, garantizando calidad y eficiencia en la ejecución.
 
@@ -493,12 +480,12 @@ El desarrollo del sistema titulado "Sistema de análisis del Perfil Profesional 
 
 |**Categoría**|**Costo total (S/)**|
 | - | - |
-|Costos generales|300|
-|Costos operativos|1800|
-|Costos del ambiente|280|
-|Costos de infraestructura|280|
-|Costos de personal|9000|
-|**Costo total del proyecto**|**11,660**|
+|Costos generales|S/. 3,834‬.00|
+|Costos operativos|S/. 630.0|
+|Costos del ambiente|S/. 300.0|
+|Costos de infraestructura|S/. 7200.0|
+|Costos de personal|S/. 9000|
+|**Costo total del proyecto**|**S/. 11,964‬.00**|
 
 #### ***Descripción de las categorías:***
 - **Costos generales**: Incluyen gastos administrativos y logísticos necesarios durante la planificación y ejecución inicial del proyecto.
