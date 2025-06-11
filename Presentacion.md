@@ -34,9 +34,15 @@ Existe una falta de información estructurada sobre la trayectoria laboral de lo
 <!-- Cuarta diapositiva -->
 ![bg](https://i.pinimg.com/1200x/43/e3/cc/43e3ccc91a962995f99b42ecd6131677.jpg)
 ## **Objetivos Específicos**  
-✅ **Identificar** las especialidades más frecuentes donde trabajan los egresados que se encuentran registrados en LinkedIn.  
-✅ **Analizar** las habilidades más mencionadas en LinkedIn y su relación con la formación universitaria.  
-✅ **Determinar** la distribución geográfica de los egresados (local, nacional, internacional).  
+✅ Identificar las especializaciones profesionales más comunes entre los egresados registrados en LinkedIn, determinando los sectores o roles en los que predominan.
+
+
+
+✅ Analizar las habilidades y competencias técnicas más utilizadas por los egresados según los perfiles registrados en LinkedIn
+
+
+
+✅ Determinar la distribución geográfica de los egresados, clasificándola en local, nacional e internacional, para comprender mejor su presencia y alcance laboral.  
 
 
 ---
@@ -73,6 +79,10 @@ El diseño de la base de datos `egresados_upt` permite relacionar eficientemente
 ---
 
 ![Modelo ER](./media/bd.png)
+
+---
+
+![Modelo ER](./media/despliegue.png)
 
 ---
 

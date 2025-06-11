@@ -29,13 +29,22 @@
 Evaluar el perfil profesional de los egresados de la EPIS de la UPT en LinkedIn para identificar sus habilidades, competencias, sectores laborales y trayectorias profesionales, y proponer estrategias para mejorar su posicionamiento en el mercado laboral.
 
 ## Objetivos Secundarios:
-1. Identificar las habilidades y competencias más destacadas en los perfiles de los egresados.
-2. Analizar los sectores laborales y roles profesionales predominantes en los que trabajan.
-3. Examinar las trayectorias profesionales y el crecimiento de los egresados.
-4. Evaluar la visibilidad y calidad de los perfiles de LinkedIn.
-5. Comparar los perfiles con las demandas del mercado laboral actual.
-6. Proponer recomendaciones para mejorar la presencia de los egresados en LinkedIn.
-   
+✅ Identificar las especializaciones profesionales más comunes entre los egresados registrados en LinkedIn, determinando los sectores o roles en los que predominan.
+
+✅ Analizar las habilidades y competencias técnicas más utilizadas por los egresados según los perfiles registrados en LinkedIn
+
+✅ Determinar la distribución geográfica de los egresados, clasificándola en local, nacional e internacional, para comprender mejor su presencia y alcance laboral.  
+
+## Costos Terraform:
+
+| Concepto                 | Costo Mensual (PEN) |
+|-------------------------|---------------------|
+| Trabajo con Terraform    | S/ 95               |
+| Terraform Cloud (servicio) | S/ 76               |
+| **Total**               | **S/ 171**          |
+
+![Roadmap](media/bd.png)
+![Roadmap](media/despliegue.png)
 ## RoadMap:
 
 ![Roadmap](./descarga.png)
