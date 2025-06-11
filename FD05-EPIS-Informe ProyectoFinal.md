@@ -8,7 +8,7 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-
+      
 **Informe Final**
 
 **Proyecto**
@@ -52,51 +52,51 @@ Integrantes:
 |1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
 
 # <a name="_toc199547500"></a>**INDICE GENERAL**
-#
-[**1.**	**Antecedentes	4****](#_toc199547501)
 
-[**2.**	**Planteamiento del Problema	5****](#_toc199547502)
+**1.**	**Antecedentes**
 
-[**a.**	**Problema	5****](#_toc199547503)
+**2.**	**Planteamiento del Problema**
 
-[b.	Justificación	6](#_toc199547504)
+**a.**	**Problema**
 
-[c.	Alcance	6](#_toc199547505)
+**b.**	**Justificación**
 
-[**3.**	**Objetivos	7****](#_toc199547506)
+**c.**	**Alcance**
 
-[**4.**	**Marco Teórico	8****](#_toc199547507)
+**3.**	**Objetivos**
 
-[**5.**	**Desarrollo de la Solución	9****](#_toc199547508)
+**4.**	**Marco Teórico**
 
-[**a.**	**Análisis de Factibilidad (técnico, económica, operativa, social, legal, ambiental)	10****](#_toc199547509)
+**5.**	**Desarrollo de la Solución**
 
-[**Factibilidad Operativa	10****](#_toc199547510)
+**a.**	**Análisis de Factibilidad (técnico, económica, operativa, social, legal, ambiental)**
 
-[**Factibilidad Legal	10****](#_toc199547511)
+**Factibilidad Operativa**
 
-[**b.**	**Tecnología de Desarrollo	12****](#_toc199547512)
+**Factibilidad Legal**
 
-[**c.**	**Metodología de implementación	13****](#_toc199547513)
+**b.**	**Tecnología de Desarrollo**
 
-[**6.**	**Cronograma	15****](#_toc199547514)
+**c.**	**Metodología de implementación**
 
-[**7.**	**Presupuesto	16****](#_toc199547515)
+**6.**	**Cronograma**
 
-[Costos de personal	17](#_toc199547516)
+**7.**	**Presupuesto**
 
-[**8.**	**Conclusiones	19****](#_toc199547517)
+**Costos de personal**
 
-[Recomendaciones	20](#_toc199547518)
+**8.**	**Conclusiones	19**
 
-[Bibliografía	21](#_toc199547519)
+**Recomendaciones**
 
-[Anexos	22](#_toc199547520)
+**Bibliografía**
 
-
+**Anexos**
 
 
-1. # <a name="_bookmark0"></a><a name="_toc199547501"></a>**Antecedentes**
+
+
+# <a name="_bookmark0"></a><a name="_toc199547501"></a>**Antecedentes**
 El desarrollo del Sistema de Análisis del Perfil Profesional de los Egresados de la EPIS de la UPT en LinkedIn surge como respuesta a la necesidad institucional de contar con herramientas que permitan evaluar de manera sistemática y basada en datos la situación profesional de sus egresados en el entorno digital. En un contexto donde las redes sociales profesionales como LinkedIn se han consolidado como fuentes confiables de información laboral, resulta fundamental aprovechar estas plataformas para obtener indicadores relevantes que retroalimenten los procesos formativos y de planificación académica.
 
 En los últimos años, diversas instituciones de educación superior han empezado a implementar sistemas de seguimiento de egresados basados en datos obtenidos de redes sociales, integrando tecnologías modernas para automatizar el proceso de recolección, análisis y visualización de la información. Sin embargo, persisten limitaciones en cuanto a la disponibilidad de soluciones específicas que permitan analizar perfiles profesionales en masa, identificar patrones de desarrollo profesional y generar reportes útiles para la toma de decisiones estratégicas.
@@ -108,7 +108,7 @@ Experiencias previas en otras universidades y estudios piloto han evidenciado el
 En este contexto, el sistema propuesto no solo busca automatizar el análisis del perfil profesional de los egresados de la EPIS-UPT, sino también establecer una metodología replicable que contribuya al fortalecimiento del vínculo entre la formación académica y la realidad profesional. De esta forma, se espera aportar al desarrollo de una cultura institucional basada en la evidencia y en la mejora continua de la calidad educativa.
 
 
-1. # <a name="_bookmark1"></a><a name="_toc199547502"></a>**Planteamiento del Problema**
+ # <a name="_bookmark1"></a><a name="_toc199547502"></a>**Planteamiento del Problema**
 En el ámbito académico universitario, y particularmente en carreras como Ingeniería de Sistemas, contar con información actualizada y estructurada sobre la situación profesional de los egresados es fundamental para retroalimentar los procesos formativos, fortalecer el vínculo con el entorno laboral y mejorar la calidad educativa. Sin embargo, la recopilación, análisis y aprovechamiento de datos sobre los egresados representa un desafío persistente para muchas instituciones, incluida la Escuela Profesional de Ingeniería de Sistemas (EPIS) de la Universidad Privada de Tacna (UPT).
 
 Uno de los principales problemas identificados es la falta de una herramienta automatizada que permita analizar perfiles profesionales en plataformas como LinkedIn, los cuales contienen información valiosa sobre cargos ocupados, áreas de especialización, ubicación laboral, certificaciones y habilidades adquiridas. Actualmente, este tipo de análisis se realiza de forma manual, desorganizada y sin una metodología clara, lo que impide una visión integral del impacto académico y profesional de los egresados.
@@ -121,7 +121,7 @@ Asimismo, el uso de tecnologías modernas como Visual Studio Code para el desarr
 
 Frente a esta problemática, surge la necesidad de desarrollar un sistema especializado que automatice la extracción y análisis de datos de LinkedIn, consolide la información en una base de datos confiable y genere visualizaciones útiles para la toma de decisiones académicas, fortaleciendo así la calidad educativa y la vinculación con el mundo laboral.
 
-1. # <a name="_bookmark2"></a><a name="_toc199547503"></a>**Problema**
+ # <a name="_bookmark2"></a><a name="_toc199547503"></a>**Problema**
 
 El proyecto surge en respuesta a una problemática cada vez más evidente en el entorno universitario: la falta de un sistema automatizado y centralizado que permita recolectar, analizar y visualizar de forma efectiva la información profesional de los egresados, particularmente desde plataformas como LinkedIn. Esta carencia limita la capacidad de la Escuela Profesional de Ingeniería de Sistemas (EPIS) de la UPT para evaluar el impacto de su formación académica, identificar oportunidades de mejora curricular y fortalecer el vínculo con el entorno laboral.
 
@@ -131,7 +131,7 @@ El proyecto surge en respuesta a una problemática cada vez más evidente en el 
 - **Carencia de trazabilidad y seguimiento a largo plazo**: Sin un sistema que almacene la evolución profesional de los egresados a lo largo del tiempo, es difícil establecer tendencias, medir la efectividad de reformas curriculares o mantener un contacto institucional permanente con los exalumnos.
 - **Riesgos de privacidad y uso no regulado de los datos**: La falta de lineamientos claros y mecanismos seguros para el manejo de la información extraída de LinkedIn puede generar conflictos éticos o legales relacionados con la privacidad y el consentimiento informado, lo cual afecta la confiabilidad y sostenibilidad del sistema a largo plazo.
 
-1. ### <a name="_toc199547504"></a>**Justificación**
+ ### <a name="_toc199547504"></a>**Justificación**
 ###
 La justificación del presente proyecto se sustenta en la necesidad creciente del entorno académico universitario de contar con herramientas digitales que permitan analizar de manera sistemática, automatizada y visualmente clara el perfil profesional de sus egresados. En carreras como Ingeniería de Sistemas, donde la vinculación con el mercado laboral y la actualización constante de competencias es fundamental, disponer de datos relevantes y confiables sobre la trayectoria profesional de los exalumnos se ha convertido en un elemento clave para la mejora continua de la calidad educativa.
 
@@ -145,7 +145,7 @@ Un aspecto distintivo de este proyecto es su enfoque en la ética y seguridad de
 
 En conjunto, este sistema no solo contribuirá al fortalecimiento del vínculo entre la universidad y sus egresados, sino que también servirá como una herramienta estratégica para mejorar la pertinencia de la formación académica, reforzar la empleabilidad de los futuros profesionales y alinear la oferta educativa con las exigencias reales del entorno profesional contemporáneo.
 
-1. ### <a name="_bookmark4"></a><a name="_toc199547505"></a>**Alcance**
+ ### <a name="_bookmark4"></a><a name="_toc199547505"></a>**Alcance**
 El alcance del proyecto de desarrollo del Sistema de Análisis del Perfil Profesional de los Egresados de la EPIS de la UPT en LinkedIn se fundamenta en la necesidad institucional de contar con herramientas digitales que permitan recolectar, procesar y visualizar información clave sobre la trayectoria profesional de sus egresados, a partir de fuentes públicas confiables como LinkedIn. Este sistema está orientado a brindar apoyo a los procesos de toma de decisiones académicas, seguimiento de egresados y mejora continua del plan de estudios.
 
 El sistema se centrará en la extracción automatizada de datos públicos desde perfiles de LinkedIn, empleando tecnologías de recolección de datos (web scraping supervisado) con respeto a las políticas de privacidad y uso ético de la información. Posteriormente, los datos serán organizados y almacenados en una base relacional gestionada con SQL Server, permitiendo su análisis estructurado y eficiente.
@@ -158,7 +158,7 @@ Es importante señalar que el proyecto se enfoca en el análisis de datos públi
 
 En conjunto, el alcance de este proyecto no solo responde a una necesidad informativa y estratégica, sino que también fomenta la adopción de tecnologías de análisis de datos en el ámbito académico, promoviendo el desarrollo de una cultura institucional orientada a la evidencia, la evaluación constante y el fortalecimiento de la relación universidad-egresado.
 
-1. # <a name="_bookmark5"></a><a name="_toc199547506"></a>**Objetivos**
+ # <a name="_bookmark5"></a><a name="_toc199547506"></a>**Objetivos**
 
 **Objetivo Principal:**
 
@@ -174,7 +174,7 @@ Objetivos Específicos:
 
 ● Garantizar la seguridad y ética del uso de datos: Implementar mecanismos de control de acceso, autenticación y manejo responsable de la información, asegurando el cumplimiento de principios éticos y de privacidad.
 
-1. # <a name="_bookmark6"></a><a name="_toc199547507"></a>**Marco Teórico**
+ # <a name="_bookmark6"></a><a name="_toc199547507"></a>**Marco Teórico**
 El desarrollo del Sistema de Análisis del Perfil Profesional de los Egresados de la EPIS de la UPT en LinkedIn se fundamenta en conceptos clave como el seguimiento de egresados, el web scraping, la minería de datos en redes sociales, la gestión de bases de datos y la visualización de información. El seguimiento de egresados permite evaluar el impacto de la formación académica en la vida profesional, mientras que técnicas como el web scraping facilitan la recolección automatizada de datos públicos desde plataformas como LinkedIn. Estos datos se organizan en una base relacional mediante SQL Server y se visualizan en dashboards interactivos usando Power BI, lo que permite identificar tendencias, habilidades más comunes, áreas laborales y otros indicadores relevantes. Asimismo, el sistema incorpora principios de ética digital y protección de datos para garantizar el uso responsable de la información, asegurando así la viabilidad técnica y académica del proyecto.
 
 **4.1 Seguimiento de Egresados y Estándares Académicos**
@@ -191,7 +191,7 @@ Una vez extraídos, los datos son almacenados en un sistema gestor de bases de d
 
 Este enfoque de automatización inteligente no solo mejora la calidad y oportunidad del análisis, sino que también promueve una cultura institucional basada en el uso de datos reales para la evaluación del impacto profesional de los egresados, alineándose con las buenas prácticas de la ingeniería de software y de la gestión educativa basada en evidencia.
 
-4\.3 Visualización de Datos Académicos con Power BI
+**4\.3 Visualización de Datos Académicos con Power BI**
 
 La visualización de datos desempeña un rol esencial en la transformación de información compleja en conocimiento accesible y comprensible para la toma de decisiones académicas. En el contexto del análisis de perfiles profesionales de egresados, herramientas como Power BI permiten representar grandes volúmenes de datos de manera interactiva, clara y dinámica, facilitando su interpretación por parte de directivos, docentes y comités curriculares. A través de dashboards personalizados, es posible identificar patrones como sectores laborales predominantes, habilidades más comunes, cargos más frecuentes y ubicación geográfica de los egresados.
 
@@ -199,7 +199,7 @@ Power BI permite la conexión directa con bases de datos como SQL Server, lo que
 
 Esta herramienta también promueve la democratización del análisis de datos dentro de la institución, ya que su interfaz amigable permite que usuarios no especializados en programación puedan interactuar con los resultados y extraer conclusiones relevantes. En este sentido, Power BI no solo es un instrumento técnico, sino también una vía para fomentar una cultura organizacional orientada a la toma de decisiones basadas en evidencia.
 
-4\.4 Ética y Privacidad en el Uso de Datos Públicos
+**4\.4 Ética y Privacidad en el Uso de Datos Públicos**
 
 El uso de datos públicos en plataformas digitales como LinkedIn plantea importantes consideraciones éticas y de privacidad, especialmente cuando se trata de información relacionada con personas naturales, como los egresados universitarios. Aunque los perfiles en redes profesionales están disponibles públicamente bajo los términos y condiciones de cada plataforma, su recolección automatizada y análisis con fines institucionales exige un tratamiento responsable que respete la integridad y la autonomía de los individuos.
 
@@ -209,7 +209,7 @@ Además, se contemplan medidas de seguridad como el control de accesos, autentic
 
 Incorporar estos principios éticos en el diseño del sistema no solo asegura el cumplimiento normativo, sino que también fortalece la confianza institucional y la legitimidad del análisis, consolidando al sistema como una herramienta confiable, responsable y alineada con los valores de respeto y protección de la información personal.
 
-4\.6 Seguridad y Protección de la Información Académica
+**4\.6 Seguridad y Protección de la Información Académica**
 
 En entornos digitales donde se manipulan datos relacionados con personas, como ocurre con el análisis de perfiles de egresados, la seguridad de la información es un aspecto crítico. Este proyecto contempla la implementación de principios esenciales de seguridad informática, tales como la autenticación de usuarios**,** el control de accesos y** la** protección de sesiones activas, con el fin de garantizar que solo personal autorizado pueda acceder, consultar o modificar los datos recopilados del sistema.
 
@@ -221,20 +221,19 @@ Estos fundamentos no solo aseguran la viabilidad técnica y legal del sistema, s
 
 El marco teórico no solo justifica el desarrollo del sistema, sino que también lo posiciona como una herramienta innovadora capaz de responder a los desafíos actuales del análisis institucional de egresados y del aprovechamiento de tecnologías emergentes para la toma de decisiones académicas en el contexto peruano.
 
-1. # <a name="_bookmark7"></a><a name="_toc199547508"></a>**Desarrollo de la Solución**
-   #
-   #
-   |<p></p><p>1. El desarrollo del Sistema de Análisis del Perfil Profesional de los Egresados de la EPIS de la UPT en LinkedIn se estructura utilizando herramientas tecnológicas modernas que permiten la automatización del proceso de recolección, almacenamiento, análisis y visualización de datos públicos de perfiles profesionales. La solución busca entregar una plataforma funcional, segura y útil para la toma de decisiones académicas.</p><p>&emsp;</p>|
+   # <a name="_bookmark7"></a><a name="_toc199547508"></a>**Desarrollo de la Solución**
+   
+   |1. El desarrollo del Sistema de Análisis del Perfil Profesional de los Egresados de la EPIS de la UPT en LinkedIn se estructura utilizando herramientas tecnológicas modernas que permiten la automatización del proceso de recolección, almacenamiento, análisis y visualización de datos públicos de perfiles profesionales. La solución busca entregar una plataforma funcional, segura y útil para la toma de decisiones académicas.
    | - |
-   |<p>2. En el backend, se ha utilizado Python, aprovechando su ecosistema de bibliotecas como BeautifulSoup **y** Selenium para realizar web scraping supervisado desde perfiles públicos de LinkedIn, respetando sus términos de uso. La lógica del sistema se basa en scripts diseñados para extraer información relevante como puestos laborales, habilidades, certificaciones, empresas e historial académico de los egresados.</p><p><h1></h1></p><p><h1></h1></p><p><h1></h1></p>|
-   |<p>3. Los datos recolectados se estructuran y almacenan en una base de datos relacional utilizando SQL Server, que permite organizar la información por egresado, periodo, sector laboral, ubicación geográfica y nivel profesional. La conexión entre Python y SQL Server se realiza mediante pyodbc, garantizando eficiencia y confiabilidad en las operaciones de lectura y escritura.</p><p><h1></h1></p>|
+   |<p>2. En el backend, se ha utilizado Python, aprovechando su ecosistema de bibliotecas como BeautifulSoup y Selenium para realizar web scraping supervisado desde perfiles públicos de LinkedIn, respetando sus términos de uso. La lógica del sistema se basa en scripts diseñados para extraer información relevante como puestos laborales, habilidades, certificaciones, empresas e historial académico de los egresados.
+   |<p>3. Los datos recolectados se estructuran y almacenan en una base de datos relacional utilizando SQL Server, que permite organizar la información por egresado, periodo, sector laboral, ubicación geográfica y nivel profesional. La conexión entre Python y SQL Server se realiza mediante pyodbc, garantizando eficiencia y confiabilidad en las operaciones de lectura y escritura.
    |<p>4. Para la visualización de la información, se utiliza Power BI, una herramienta de inteligencia empresarial que permite construir dashboards interactivos donde se muestran indicadores clave como cargos frecuentes, industrias más comunes, habilidades predominantes y distribución geográfica. Estos reportes están diseñados para ser fácilmente interpretables por directivos, comités académicos y personal administrativo.</p><p><h1></h1></p>|
    |<p>5. El entorno de desarrollo se gestiona desde Visual Studio Code, que facilita la organización del proyecto, integración con control de versiones (Git) y acceso a extensiones especializadas en scraping, análisis de datos y conexión con servicios en la nube.</p><p><h1></h1></p><p><h1></h1></p>|
    |<p>6. La solución adopta una arquitectura modular, donde cada componente del sistema (extracción, procesamiento, almacenamiento y visualización) está desacoplado, lo que permite su mantenimiento y escalabilidad. Esta estructura permite futuras integraciones con otros sistemas académicos de la UPT o con módulos adicionales, como encuestas de egresados o análisis predictivos.</p><p><h1></h1></p>|
    |<p>7. El despliegue del sistema está proyectado para realizarse en un entorno en la nube, utilizando Microsoft Azure, que ofrece escalabilidad, seguridad y alta disponibilidad. Se contempla el uso de herramientas de automatización como Terraform o scripts de configuración para gestionar la infraestructura de forma reproducible, aplicando buenas prácticas DevOps.</p><p><h1></h1></p>|
 
 
-1. # <a name="_bookmark8"></a><a name="_toc199547509"></a>**Análisis de Factibilidad (técnico, económica, operativa, social, legal, ambiental)**
+ # <a name="_bookmark8"></a><a name="_toc199547509"></a>**Análisis de Factibilidad (técnico, económica, operativa, social, legal, ambiental)**
 La factibilidad económica del sistema se fundamenta en un análisis detallado de los costos asociados al desarrollo, implementación y mantenimiento de una plataforma que automatice el análisis de perfiles profesionales de egresados desde LinkedIn. Este análisis incluye aspectos como el uso de licencias de software (por ejemplo, Power BI Pro en caso de requerirse funciones avanzadas), la posible suscripción a servicios en la nube (como Azure para el alojamiento del sistema), y la inversión en capacitación básica para los usuarios encargados del análisis y visualización de los datos. También se contemplan costos operativos mínimos relacionados con actualizaciones periódicas y mantenimiento técnico del sistema.
 
 Se proyecta un análisis de retorno de inversión considerando beneficios a corto plazo, como la reducción de horas destinadas a la recolección y análisis manual de información, y beneficios a largo plazo, como la mejora en la toma de decisiones académicas, la optimización del rediseño curricular y el fortalecimiento del vínculo universidad–egresado. Este análisis busca asegurar que la implementación del sistema sea económicamente viable, brindando valor institucional mediante una mejor gestión de la información y una toma de decisiones basada en datos reales y actualizados. En conjunto, la evaluación económica garantiza la sostenibilidad del sistema y su contribución efectiva a la mejora de los procesos académicos.
@@ -297,7 +296,7 @@ El sistema de análisis del perfil profesional de los egresados de la EPIS en Li
 
 
 
-1. # <a name="_bookmark9"></a><a name="_toc199547512"></a>**Tecnología de Desarrollo**
+   # <a name="_bookmark9"></a><a name="_toc199547512"></a>**Tecnología de Desarrollo**
    #
 El desarrollo del Sistema de Análisis del Perfil Profesional de los Egresados de la EPIS de la UPT en LinkedIn se basa en un conjunto de tecnologías modernas que permiten construir una plataforma robusta, automatizada y orientada al análisis académico estratégico. Este sistema está diseñado para facilitar la recolección, estructuración, procesamiento y visualización de información profesional, fortaleciendo la gestión educativa con base en datos reales del entorno laboral.
 
@@ -337,7 +336,7 @@ Estas tecnologías, trabajando en conjunto, permiten construir un sistema acadé
 
 
 
-1. # <a name="_bookmark10"></a><a name="_toc199547513"></a>**Metodología de implementación**
+   # <a name="_bookmark10"></a><a name="_toc199547513"></a>**Metodología de implementación**
 La metodología de implementación del sistema de análisis del perfil profesional de los egresados de la EPIS en LinkedIn se organiza en fases claramente definidas, con el objetivo de asegurar un desarrollo eficiente, modular y alineado con las necesidades institucionales. Cada fase sigue principios de ingeniería de software y análisis de datos, garantizando la calidad del sistema, su adaptabilidad y su impacto positivo en la toma de decisiones académicas. Este enfoque metodológico permite desarrollar una solución escalable, segura y sostenible en el tiempo.
 
 |**Planificación y Análisis**|
@@ -374,7 +373,7 @@ La metodología de implementación del sistema de análisis del perfil profesion
 |Escalabilidad del Sistema: La estructura modular permite incorporar nuevas carreras profesionales, integrar encuestas institucionales, o expandir el análisis a otras plataformas como Google Scholar o GitHub, según las necesidades de la UPT.|
 |<p></p><p>Esta metodología garantiza que el sistema no solo cumpla con los objetivos técnicos, sino que también contribuya de manera efectiva al fortalecimiento académico y estratégico de la universidad, mediante el uso ético y automatizado de datos públicos para la mejora continua institucional.</p><p></p>|
 
-1. # <a name="_bookmark11"></a><a name="_toc199547514"></a>**Cronograma**
+   # <a name="_bookmark11"></a><a name="_toc199547514"></a>**Cronograma**
    #
 El cronograma de desarrollo del proyecto, que iniciará el 20 de marzo de 2025**,** está diseñado para guiar de manera estructurada y progresiva cada una de las fases de implementación del sistema. El desarrollo se distribuye en etapas que permiten avanzar de forma ordenada desde la planificación hasta el despliegue final del sistema, asegurando que se cumplan los objetivos técnicos, académicos y éticos del proyecto.
 
@@ -391,7 +390,7 @@ El cronograma de desarrollo del proyecto, que iniciará el 20 de marzo de 2025**
 |Semanas 15-16|26 junio – 5 julio|**Despliegue y Cierre:** Pruebas finales- Despliegue de la aplicación- Presentación del proyecto- Evaluación final|
 #
 
-1. # <a name="_bookmark12"></a><a name="_toc199547515"></a>**Presupuesto**
+   # <a name="_bookmark12"></a><a name="_toc199547515"></a>**Presupuesto**
 Hablar de presupuestos manejables en el contexto del desarrollo del Sistema de Análisis del Perfil Profesional de los Egresados de la EPIS de la UPT en LinkedIn implica establecer una planificación financiera realista que optimice los recursos sin comprometer la calidad del sistema ni sus funcionalidades clave. El objetivo es implementar una solución técnica funcional y sostenible, sin incurrir en gastos innecesarios, aprovechando al máximo herramientas de código abierto y servicios gratuitos o de bajo costo.
 
 Este sistema, al estar orientado al análisis académico institucional, busca mantener un equilibrio entre utilidad, escalabilidad y costos accesibles**,** especialmente en contextos universitarios como el de la EPIS-UPT. A continuación, se presenta la estimación de los principales gastos relacionados con el desarrollo e implementación del proyecto:
@@ -404,7 +403,7 @@ Este sistema, al estar orientado al análisis académico institucional, busca ma
 |Transporte (reuniones técnicas)|-|-|S/. 200|
 |Total|||S/. 300|
 
-Costos operativos durante el desarrollo
+**Costos operativos durante el desarrollo**
 
 |Concepto|Cantidad|Costo mensual (S/)|Total (6 meses) (S/)|
 | - | - | - | - |
@@ -418,20 +417,7 @@ Costos operativos durante el desarrollo
 |Dominio web (.com o .org)|50|
 |Hosting para plataforma|230|
 |Power BI Pro (licencia por 6 meses)|180|
-|**Total**||
-
-||
-| - |
-
-|||
-| - | - |
-
-|**460**|
-| - |
-
-|||
-| - | - |
-
+|**Total**|460|
 
 
 
@@ -479,10 +465,10 @@ A continuación, se detalla la estimación de sueldos proyectados para cada rol 
 
 |**Rol**|**Cantidad**|**Salario mensual (S/) por 5 horas al dia**|**Duración (meses)**|**Subtotal (S/)**|
 | - | - | - | - | - |
-|Desarrollador Backend|1|600|6|3600|
-|Desarrollador Frontend|1|600|6|3600|
-|Analista de Requerimientos|1|600|3|1800|
-|**Total**||||**9000**|
+|Jefe del Proyecto|1|800|3|2400|
+|Programador|1|800|1|2400|
+|Analista de datos|1|800|1|2400|
+|**Total**||||**7200**|
 
 Este equipo será responsable del desarrollo del backend y frontend del sistema, el diseño de dashboards, la recolección de datos desde LinkedIn, la implementación de la base de datos, el análisis funcional y el cumplimiento de los estándares académicos y técnicos requeridos. El costo total de personal está optimizado en función de la carga horaria y duración del proyecto, garantizando calidad y eficiencia en la ejecución.
 
@@ -493,12 +479,12 @@ El desarrollo del sistema titulado "Sistema de análisis del Perfil Profesional 
 
 |**Categoría**|**Costo total (S/)**|
 | - | - |
-|Costos generales|300|
-|Costos operativos|1800|
-|Costos del ambiente|280|
-|Costos de infraestructura|280|
-|Costos de personal|9000|
-|**Costo total del proyecto**|**11,660**|
+|Costos generales|S/. 3,834‬.00|
+|Costos operativos|S/. 630.0|
+|Costos del ambiente|S/. 300.0|
+|Costos de infraestructura|S/. 7200.0|
+|Costos de personal|S/. 9000|
+|**Costo total del proyecto**|**S/. 11,964‬.00**|
 
 #### ***Descripción de las categorías:***
 - **Costos generales**: Incluyen gastos administrativos y logísticos necesarios durante la planificación y ejecución inicial del proyecto.
@@ -515,7 +501,7 @@ Este presupuesto fue gestionado de forma estratégica para asegurar la viabilida
 
 
 
-1. # <a name="_bookmark13"></a><a name="_toc199547517"></a>**Conclusiones**
+   # <a name="_bookmark13"></a><a name="_toc199547517"></a>**Conclusiones**
 
 - El desarrollo del Sistema de Análisis del Perfil Profesional de los Egresados de la EPIS de la UPT en LinkedIn ha cumplido de manera satisfactoria los objetivos generales y específicos establecidos al inicio del proyecto. La plataforma final constituye una herramienta funcional, confiable y técnicamente sólida para evaluar el desarrollo profesional de los egresados en entornos digitales.
 
