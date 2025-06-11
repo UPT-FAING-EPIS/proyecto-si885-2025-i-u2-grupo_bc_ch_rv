@@ -28,7 +28,7 @@ ENTONCES el sistema valida los campos y muestra "Registro exitoso"
 1. Filtros combinables (carrera + año + ubicación)
 2. Resultados en <3 segundos
 3. Exportar a CSV/Excel
-
+       
 **Escenario de Prueba:**  
 ```gherkin
 DADO que selecciono "Ingeniería de Sistemas" y "2023"  
