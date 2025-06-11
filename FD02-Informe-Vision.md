@@ -15,7 +15,7 @@
 Curso: **Inteligencia de Negocios**
 
 Docente: **Mag. Patrick José Cuadros Quiroga**
-
+     
 ## Integrantes:
 
   **Villanueva Mamani, Royser Alonsso (2021071090)** 
