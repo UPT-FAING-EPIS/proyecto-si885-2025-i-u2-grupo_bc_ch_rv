@@ -43,6 +43,8 @@ Evaluar el perfil profesional de los egresados de la EPIS de la UPT en LinkedIn 
 | Terraform Cloud (servicio) | S/ 76               |
 | **Total**               | **S/ 171**          |
 
+Nota: Solo si se sobrepasa el limite gratuito, de acuerdo a los recursos que se utilziarán.
+
 ![Roadmap](media/bd.png)
 ![Roadmap](media/despliegue.png)
 ## RoadMap:
